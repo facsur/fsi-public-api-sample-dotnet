@@ -25,4 +25,3 @@ Example code can be found in the /Examples folder. There are currently two sets 
 - Clone the repository to your local machine
 - Populate the class level fields inside PublicApiRequestConstants to be able to call endpoints for your facility's data
 - Use the program.cs file to instantiate the respective example classes, if successful, responses are logged to the console
-- -test test test test
