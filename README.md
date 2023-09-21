@@ -3,7 +3,9 @@
 The FSI Public API Sample Application contains examples of how to use the API to:
 
 - Retrieve a valid authentication token
-- Create Work Orders in a particular facility/segment
+- Retrieve all the locations for a particular facility/segment
+- Create work orders in a particular facility/segment
+- Retrieve a work order
 
 ## What is the FSI Public API?
 
@@ -15,7 +17,6 @@ Example code can be found in the /Examples folder. There are currently two sets 
 
 - GetTokenExample, provides sample code illustrating how to obtain an authentication token used in FSI Public API requests
 - CreateWorkOrderExample, provides sample code illustrating how to use the FSI Public API to create a work order
-
 
 ## Requirements 
 - Visual Studio
